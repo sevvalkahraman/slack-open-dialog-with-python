@@ -1,0 +1,38 @@
+{
+	"blocks": [
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "image",
+					"image_url": "https://i.ibb.co/WWJbW04/hacker.png",
+					"alt_text": "hacker"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "#user_name sent this message to our Retro Box :"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "plain_text",
+				"text": "#message_detail",
+				"emoji": true
+			}
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": "Don't forget to vote!"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		}
+	]
+}
