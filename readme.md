@@ -36,20 +36,20 @@ flask run
 
 #### Post Json 'http://127.0.0.1:5000/'
 
-Create interactivity and shortcut on your Slack app.
+Create interactivity and shortcut on your Slack app. \
 ![Command](https://i.ibb.co/bbkx0Hz/7.png)
 
 
-Write the command.
+Write the command.\
 ![Command](https://i.ibb.co/2gG2bQM/slack1.png)
 
-Opens a dialog window.
+Opens a dialog window.\
 ![Command](https://i.ibb.co/kcN7wjw/Slack2.png)
 
-Send it anonymously.
+Send it anonymously.\
 ![Command](https://i.ibb.co/VgcPxVK/Slack3.png)
 
-Message view; (message.txt file)
+Message view; (message.txt file)\
 ![Command](https://i.ibb.co/VMCxSwT/Slack4.png)
 
 ![Command](https://i.ibb.co/888F1jH/slack5.png)
