@@ -13,3 +13,4 @@ class FlaskConfig:
 class SlackConfig :
     LOG_CHANNEL_WEBHOOK = config['SLACK']['LOG_CHANNEL_WEBHOOK']   
     RETRO_CHANNEL_WEBHOOK = config['SLACK']['RETRO_CHANNEL_WEBHOOK']   
+    TOKEN = config['SLACK']['TOKEN']

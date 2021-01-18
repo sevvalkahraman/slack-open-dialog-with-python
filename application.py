@@ -112,7 +112,7 @@ def interactivePost() :
             }
 
             api_data = {
-                "token": "xoxb-1274544277664-1498099950704-SOElaXwpkI8DCK6ezhcN4yy7",
+                "token": SlackConfig.TOKEN,
                 "trigger_id": payload["trigger_id"],
                 "dialog": json.dumps(dialog)
             }
