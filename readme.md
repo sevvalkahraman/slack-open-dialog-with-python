@@ -1,5 +1,5 @@
 # slack-open-dialog-with-python
-Opens a dialog when called with the specified command. This dialog box contains text field and selection boxes. It sends a message to the channel specified in config as a result of the request.
+Opens a dialog when called with the specified command. This dialog box contains text field and selection boxes. It sends a message to the channel specified in the config file as a result of the request.
 
 #### Gef files
 ```bash
