@@ -10,7 +10,7 @@
 				},
 				{
 					"type": "mrkdwn",
-					"text": "#user_name sent this message to our Retro Box : "
+					"text": "#user_name sent this message to our Retro Box :  "
 				}
 			]
 		},
