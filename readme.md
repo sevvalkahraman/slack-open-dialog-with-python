@@ -3,8 +3,7 @@ Opens a dialog when called with the specified command. This dialog box contains 
 
 #### Gef files
 ```bash
-git remote add origin https://github.com/sevvalkahraman/slack-open-dialog-with-python.git
-git pull origin master
+git clone https://github.com/sevvalkahraman/slack-open-dialog-with-python.git
 ```
 
 #### Create an environment
